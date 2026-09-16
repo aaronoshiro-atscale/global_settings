@@ -2,3 +2,4 @@ object_type: global_settings
 overrides:
   "xmla.auth.token.enabled": true
   "aggregate.dataReadiness.enabled": true
+  "aggregates.create.demandDefined.enabled": false
